@@ -19,7 +19,7 @@ export class MembersService {
   }
 /*
   getHttpOptions() {
-    const userString = localStorage.getItem('user');
+    const userString = localStorage.getItem('user');   
     if(!userString) return;
     const user = JSON.parse(userString);
     return {

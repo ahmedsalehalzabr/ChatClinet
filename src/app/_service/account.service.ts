@@ -23,7 +23,7 @@ login(model: any) {
       }
     })
   )
-}
+}  
 
 
 register(model: any) {
